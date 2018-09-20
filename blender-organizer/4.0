@@ -1,17 +1,13 @@
-Test text
-<images>
-https://raw.githubusercontent.com/JYamihud/updates-manager/master/jyexchange/Screenshot%20from%202017-10-27%2023-14-50.png
-</images>
-MORE TEST TEXT
-text
-omg TEXT
+Fixed the start up bug
+Not it starts properly.
 
+NEW FEATURES:
 
-ANOTEHR FUCKING PICTURE
+    * Scheduling system for checklists
+    
 <images>
-https://raw.githubusercontent.com/JYamihud/updates-manager/master/jyexchange/Screenshot%20from%202017-10-27%2023-18-41.png
+https://raw.githubusercontent.com/JYamihud/updates-manager/master/blender-organizer/img/Screenshot%20from%202018-09-20%2008-46-16.png
 </images>
-<button>
-"View Page"
-xdg-open https://blenderartists.org/t/new-blender-organizer-forget-about-making-folders-work-faster/1126110/12
+"Watch Video"
+xdg-open https://www.youtube.com/watch?v=V_ApJB4VKyQ
 </button>
