@@ -8,6 +8,7 @@ NEW FEATURES:
 <images>
 https://raw.githubusercontent.com/JYamihud/updates-manager/master/blender-organizer/img/Screenshot%20from%202018-09-20%2008-46-16.png
 </images>
+<button>
 "Watch Video"
 xdg-open https://www.youtube.com/watch?v=V_ApJB4VKyQ
 </button>
