@@ -1,0 +1,17 @@
+A minor change in the blender-organizer.py ( MAIN_FILE )
+    
+<images>
+https://raw.githubusercontent.com/JYamihud/updates-manager/master/blender-organizer/img/Screenshot%20from%202018-09-22%2000-37-18.png
+</images>
+    
+Now instead of having a hard coded VESRION value 
+inside the file.
+It will load the version from the update_info.data
+    
+It's going to be shown at the top bar every time
+after update you will be suttisfied to see this.
+    
+<images>
+https://raw.githubusercontent.com/JYamihud/updates-manager/master/blender-organizer/img/Screenshot%20from%202018-09-22%2000-38-25.png
+</images>
+
