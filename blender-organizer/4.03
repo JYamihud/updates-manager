@@ -1,0 +1,12 @@
+There was a bug commited by the user [c17vfx] on blenderartists.org
+It outputted a strange python datetime error that had nothing to do with the code it self.
+But the bug accored anyway.
+<button>
+"Read more in dept..."
+xdg-open https://blenderartists.org/t/new-blender-organizer-forget-about-making-folders-work-faster/1126110/39
+</button>
+This issue was resolved because of his contribution.
+.
+.
+PLEASE DO YOUR OWN CONTRIBUTIONS TO THE PROJECT.
+
