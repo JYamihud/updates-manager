@@ -1,0 +1,7 @@
+FIXED BUGS:
+
+* Render was buggy at compositing frames.
+so I made it ignore blender messages if
+it cannot parse it. Or render had failed.
+
+* Updates window text overlap onto a button.
