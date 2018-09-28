@@ -1,0 +1,17 @@
+* Now if 0 assests of any type is started.
+  if let's say the dev/obj is empty from folders
+  it will show 100% done on the top bar. Instead of 0%
+  Because 0 from 0 is 100%.
+  
+* Fixed Names for assets. Automatically correting many
+  bad characters. Such as / or [ ]. So the folder
+  will be created properly and blender will not have
+  a trouble with the path.
+  (TRY TO AVOID USING SPACES OR WEIRD CHARACTERS ANYWAY
+   ON THE PATH TO THE PROJECT, OR IN THE PROJECT)
+   
+   If you make asset:
+   <images>
+   https://raw.githubusercontent.com/JYamihud/updates-manager/master/blender-organizer/img/Screenshot%20from%202018-09-29%2002-07-33.png
+   https://raw.githubusercontent.com/JYamihud/updates-manager/master/blender-organizer/img/Screenshot%20from%202018-09-29%2002-07-44.png
+   </images>
