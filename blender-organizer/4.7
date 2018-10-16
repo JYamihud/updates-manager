@@ -1,0 +1,30 @@
+Updates mostly related to Render window
+
+*Changed few lines in Avarage time algorythm
+ now the times will be shown more correct regardless
+ if the file was rendered multiple times on a different
+ render setting.
+ 
+ Just by comparison. You could use it to render test_rnd
+ test render on 50% resolution. Will little samples.
+ Such frame would take let's say 10 seconds.
+ And now you are rendering the same fime on 100% resolution
+ with much more samples. Each frame takes about 2 minutes.
+ 
+ Previously it would get the avarage time from both new
+ render and old. Means it would resolt in something close
+ to 10 seconds in the begining 1 minute in the middle and
+ 2 minutes toward the end frames. Which made it practically
+ unusable when trying to calculate the end time when the 
+ shot will be complitelly rendered.
+ 
+ Now it calculated only the new frames. From the current
+ render.
+ 
+ But I left the data from the old frames in there just in case
+ you want to compare them. And made their graph a little
+ brighter.
+
+<images>
+https://raw.githubusercontent.com/JYamihud/updates-manager/master/blender-organizer/img/Screenshot%20from%202018-10-16%2004-28-38.png
+</images>
