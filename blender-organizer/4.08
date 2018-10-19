@@ -1,0 +1,18 @@
+New Render split window. For GPU and CPU rendering 
+in the same time.
+
+This was partially developed by David Amihud.
+
+<images>
+https://raw.githubusercontent.com/JYamihud/updates-manager/master/blender-organizer/img/Screenshot%20from%202018-10-20%2002-48-10.png
+</images>
+
+This feature will make 2 additional
+blend files along side your original file
+and configure them for CPU and GPU renderings
+make a automatic CPU and GPU render list
+and render simultainusly the file on CPU and GPU.
+
+The slider under the checkbox is the percentage
+of how much frames will take CPU render
+the rest will be done by GPU
