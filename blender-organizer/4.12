@@ -1,0 +1,5 @@
+Now you can insert images into your scripts
+using a script editor.
+
+The syntax is [image]/path/image.png[/image]
+View the images in the full script view window.
