@@ -1,0 +1,37 @@
+There was a pretty bad update for Blender on linux.
+It made blender not load up what so ever. So I did
+the most sensible thing and basically reinstalled it.
+apt-get remove, apt-get install... etc...
+
+What I've got was not the 2.79 that I used to work with
+but the older 2.76 and I could not get newer system version
+to be intalled.
+
+I do have tho the folders with custom versions of blender.
+When you download the .tar.tz file from Blender.org and
+just extract them into a folder. There is an executable in
+there. So you can use any version of Blender if you want.
+
+So I thought... OK. Let's make so people could choose the version
+of blender that they work with in the organizer.
+
+So I did just that
+<images>
+https://raw.githubusercontent.com/JYamihud/updates-manager/master/blender-organizer/img/Screenshot%20from%202019-05-19%2006-27-54.png
+</images>
+
+There is a new button on the top right corner. That will lead you toward
+a new interface for selecting a custom blender.
+
+<images>
+https://raw.githubusercontent.com/JYamihud/updates-manager/master/blender-organizer/img/Screenshot%20from%202019-05-19%2006-28-16.png
+</images>
+
+Also it will automatically check for you if the Blender
+is having all nesesarry components.
+blender - the executable it self.
+blenderplayer - the BGE executable
+blender-thumbnailer.py - the system thumbnailer for blend files
+
+If something doesn't work please do the REPORT BUG. So I could know.
+Thanks.
