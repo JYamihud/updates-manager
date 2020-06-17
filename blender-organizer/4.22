@@ -1,0 +1,40 @@
+I've updated the looks and made some changes to the story-editor
+Now you can move the peaces freely. Like in a node editor.
+
+
+<images>
+https://raw.githubusercontent.com/JYamihud/updates-manager/master/blender-organizer/img/Screenshot%20from%202020-06-17%2008-23-40.png
+https://raw.githubusercontent.com/JYamihud/updates-manager/master/blender-organizer/img/Screenshot%20from%202020-06-17%2008-24-00.png
+</images>
+
+So now it looks more like a peace of something related to blender.
+In an old version only the render button was taken from blender.
+And even tho it was 2.7x button. Not I've updated most of the icons
+to look like from blender 2.8x
+
+Also a big announcment. The pictures you just saw are from the new
+project of mine where I use the organizer extensevely.
+
+It's called Moria's Race. And it's going to be a cool
+racing movie for kids. But also for those who like animation.
+
+You can follow the progress on YouTube.
+
+<button>
+"This is a playlist"
+xdg-open https://www.youtube.com/playlist?list=PLhqk0hUdhXIwmWP227fBagxErhO86HkSH
+</button>
+
+Also on telergam
+<button>
+"Telegram Link"
+xdg-open https://t.me/moriasrace
+</button>
+
+And you can support the project on Patreon.
+And get access to some of the production files.
+
+<button>
+"Link to Patreon. Clicking this button is still FOR FREE"
+xdg-open https://www.patreon.com/blenderdumbass
+</button>
