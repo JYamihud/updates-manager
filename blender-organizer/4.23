@@ -1,0 +1,43 @@
+The new update 4.23 is not available.
+Click update to update.
+
+
+Changes are:
+
+Icons in Assest selector is now bigger.
+<images>
+https://raw.githubusercontent.com/JYamihud/updates-manager/master/blender-organizer/img/Screenshot%20from%202020-06-19%2019-03-37.png
+</images>
+
+Also Previews now can have transparent parts. Since it's no longer in JPG format.
+Old JPG format previews still readable for backward compatibility.
+
+<images>
+https://raw.githubusercontent.com/JYamihud/updates-manager/master/blender-organizer/img/Screenshot%20from%202020-06-19%2019-03-52.png
+</images>
+
+Also the Asset window does not waste space now if you have square Previews.
+Also you can see that files are now sorted properly.
+
+<images>
+https://raw.githubusercontent.com/JYamihud/updates-manager/master/blender-organizer/img/Screenshot%20from%202020-06-19%2019-04-15.png
+</images>
+
+Those changes are a part of a larger project called. "Moria's Race"
+You can talk to me about changes or about the project in general here.
+<button>
+"Telegram Link"
+xdg-open https://t.me/moriasrace
+</button>
+
+Also If you want to see progress of the project it's here.
+<button>
+"This is a playlist"
+xdg-open https://www.youtube.com/playlist?list=PLhqk0hUdhXIwmWP227fBagxErhO86HkSH
+</button>
+
+And support Organizer or Morias Race here
+<button>
+"Link to Patreon."
+xdg-open https://www.patreon.com/blenderdumbass
+</button>
