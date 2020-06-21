@@ -1,0 +1,39 @@
+For my project I needed a good way to see what I need to
+do at the moment without going through all off the Checklists
+and checking stuff.
+
+The was a scheduling system in the organizer but you know
+it's kind a stupid. It shows those hard to see tiny
+squares above the graphs and in order to read you need to
+hover the mouse above them.
+
+This is not interesting and not fun. And not very usefull.
+I found myself never actually using it.
+
+So I took time to redesign it.
+For not it's shows only the tasks you need to do today.
+But in a clear way. And you can click on them to get to
+the checklist.
+
+<images>
+https://raw.githubusercontent.com/JYamihud/updates-manager/master/blender-organizer/img/Screenshot%20from%202020-06-21%2003-32-37.png
+</images>
+
+Those changes are a part of a larger project called. "Moria's Race"
+You can talk to me about changes or about the project in general here.
+<button>
+"Telegram Link"
+xdg-open https://t.me/moriasrace
+</button>
+
+Also If you want to see progress of the project it's here.
+<button>
+"This is a playlist"
+xdg-open https://www.youtube.com/playlist?list=PLhqk0hUdhXIwmWP227fBagxErhO86HkSH
+</button>
+
+And support Organizer or Morias Race here
+<button>
+"Link to Patreon."
+xdg-open https://www.patreon.com/blenderdumbass
+</button>
