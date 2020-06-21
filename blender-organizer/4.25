@@ -1,0 +1,60 @@
+I guess I cannot stop brainstorming changes into the organizer.
+.
+There is a semi-new system of linking objects to places.
+Semi-new because it was worked on in the begining but
+eventually something happened and it wasn't really finished.
+.
+There are already 2 new ways this system is in use.
+.
+Use case number one. In the task menu for today it was showing
+The tasks and the file from which checklist the task is.
+<images>
+https://raw.githubusercontent.com/JYamihud/updates-manager/master/blender-organizer/img/Screenshot%20from%202020-06-21%2003-32-37.png
+</images>
+.
+Now with the new system you have access both to the checklists
+and to the items themselves.
+<images>
+https://raw.githubusercontent.com/JYamihud/updates-manager/master/blender-organizer/img/Screenshot%20from%202020-06-21%2008-53-38.png
+</images>
+.
+Also there was a feature to drag images into the story editor
+and they would be displayed in the editor.
+.
+It was a rather basic function that let you move them around
+and click to view the image.
+.
+But since we have the new linking item ability. I did so if
+you drag a render or a texture from an item. It will recognize
+that it's an item and instead of showing you the image, by
+clicking you will be transfered to the item.
+
+<images>
+https://raw.githubusercontent.com/JYamihud/updates-manager/master/blender-organizer/img/Screenshot%20from%202020-06-21%2009-31-41.png
+</images>
+.
+Note that item load time is now during a white frame.
+It might look like organizer had crashed. I will try
+to resolve this issue. I don't yet know how. Tho...
+You are welcome to look at the code. And try to help me.
+Click the Report Bug button to get to the GitHub page.
+.
+.
+Those changes are a part of a larger project called. "Moria's Race"
+You can talk to me about changes or about the project in general here.
+<button>
+"Telegram Link"
+xdg-open https://t.me/moriasrace
+</button>
+
+Also If you want to see progress of the project it's here.
+<button>
+"This is a playlist"
+xdg-open https://www.youtube.com/playlist?list=PLhqk0hUdhXIwmWP227fBagxErhO86HkSH
+</button>
+
+And support Organizer or Morias Race here
+<button>
+"Link to Patreon."
+xdg-open https://www.patreon.com/blenderdumbass
+</button>
