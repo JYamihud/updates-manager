@@ -1,0 +1,56 @@
+Something was orginally a part of an idea behind the organizer
+but I just didn't know how to code it.
+And suddenly I know. Tho it's still in the alpha it's very cool.
+.
+Now you can mark items (assets) right in the script. And
+it will create little links to the items in the shot editor
+on the side.
+.
+<images>
+https://raw.githubusercontent.com/JYamihud/updates-manager/master/blender-organizer/img/Screenshot%20from%202020-06-22%2004-59-00.png
+</images>
+.
+Yes. This is amazing. Isn't it?
+.
+You can mark them manually by hand. Using the item function.
+Like in this picture.
+.
+<images>
+https://raw.githubusercontent.com/JYamihud/updates-manager/master/blender-organizer/img/Screenshot%20from%202020-06-22%2004-59-19.png
+</images>
+.
+Or by pressing the Mark Item button and selecting them.
+From a menu.
+.
+<images>
+https://raw.githubusercontent.com/JYamihud/updates-manager/master/blender-organizer/img/Screenshot%20from%202020-06-22%2004-59-45.png
+</images>
+
+Also I've added a simpler way to add Item into the Story
+Space of the story editor.
+.
+There is a new tool that does it for you. So you wont
+need to drag stuff from the folders.
+.
+<images>
+https://raw.githubusercontent.com/JYamihud/updates-manager/master/blender-organizer/img/Screenshot%20from%202020-06-21%2009-31-42.png
+</images>
+
+Those changes are a part of a larger project called. "Moria's Race"
+You can talk to me about changes or about the project in general here.
+<button>
+"Telegram Link"
+xdg-open https://t.me/moriasrace
+</button>
+
+Also If you want to see progress of the project it's here.
+<button>
+"This is a playlist"
+xdg-open https://www.youtube.com/playlist?list=PLhqk0hUdhXIwmWP227fBagxErhO86HkSH
+</button>
+
+And support Organizer or Morias Race here
+<button>
+"Link to Patreon."
+xdg-open https://www.patreon.com/blenderdumbass
+</button>
