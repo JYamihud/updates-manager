@@ -1,0 +1,74 @@
+And another update if you can keep up with them.
+Just click on this button ones every couple of
+hours. Probably something new will appear.
+.
+Okay so first off all for the ease of use.
+The readablilty of items / images / blend files
+was redone to make them look the same in 
+different windows.
+.
+So there will be no confusion what you are looking at.
+<images>
+https://raw.githubusercontent.com/JYamihud/updates-manager/master/blender-organizer/img/Screenshot%20from%202020-06-23%2015-34-05.png
+</images>
+This same looks will apply no matter if the item is
+in the item window or dragged into the Story Editor
+.
+Also now you can Add new item directly in story
+editor.
+.
+In the items window now we have a new little gear icon.
+<images>
+https://raw.githubusercontent.com/JYamihud/updates-manager/master/blender-organizer/img/Screenshot%20from%202020-06-23%2015-34-24.png
+</images>
+This is a new item configuration setting
+for the automatic link system.
+.
+NOTE!!! This system is yet not implemented.
+For now you can only configure your items
+nothing automatic will happen yet.
+.
+<images>
+https://raw.githubusercontent.com/JYamihud/updates-manager/master/blender-organizer/img/Screenshot%20from%202020-06-23%2015-34-35.png
+<images>
+.
+In terms of use. The configuration is basically
+choser of what Collections to link from the item.
+And what objects from the collection Make Proxy.
+Make Proxy usually used for Rigs on the link items.
+So the entire item is linked and only pose of the rig
+is manipulatable.
+.
+On the image above you can see the configuration
+for RedKiss car.
+Within the blendfile we have 5 collections
+only 1 of them is the one we want to link.
+In our case here it's "Red_Kiss"
+.
+But Red Kiss has a rig. And we want to make it
+a proxy. To start animating imidiatly.
+.
+So under "Make Proxies" you can see me selecting
+"Red_Kiss_Rig".
+.
+This window saves your clicks automatically. So
+don't worry to close the window.
+.
+Those changes are a part of a larger project called. "Moria's Race"
+You can talk to me about changes or about the project in general here.
+<button>
+"Telegram Link"
+xdg-open https://t.me/moriasrace
+</button>
+
+Also If you want to see progress of the project it's here.
+<button>
+"This is a playlist"
+xdg-open https://www.youtube.com/playlist?list=PLhqk0hUdhXIwmWP227fBagxErhO86HkSH
+</button>
+
+And support Organizer or Morias Race here
+<button>
+"Link to Patreon."
+xdg-open https://www.patreon.com/blenderdumbass
+</button>
