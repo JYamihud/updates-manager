@@ -1,0 +1,57 @@
+A BIG UPDATE
+.
+SO MUCH MORE IS AUTOMATIC NOW
+.
+I'm happy to announce
+that now in the story editor
+you can do such crazy things
+as link assets from their
+blendfiles straight to the
+shot blend files.
+.
+And and not only this. But
+it reads the actuall script
+and comes up with suggestions
+to link specific assets.
+.
+You just click this new link
+button beside the blend file
+in the shot editor.
+Choose you data to link.
+Hit okay. And it will link the
+assets in.
+.
+NOTE! The assets have to be finished.
+and Configured. There is a little
+setting icon to configure asset.
+.
+<images>
+https://raw.githubusercontent.com/JYamihud/updates-manager/master/blender-organizer/img/Screenshot%20from%202020-06-24%2009-17-18.png
+</images>
+.
+.
+Tho if they are not finished. Don't worry.
+The configurator icon will do the job for you.
+<images>
+https://raw.githubusercontent.com/JYamihud/updates-manager/master/blender-organizer/img/Screenshot%20from%202020-06-24%2009-17-19.png
+</images>
+
+.
+Those changes are a part of a larger project called. "Moria's Race"
+You can talk to me about changes or about the project in general here.
+<button>
+"Telegram Link"
+xdg-open https://t.me/moriasrace
+</button>
+
+Also If you want to see progress of the project it's here.
+<button>
+"This is a playlist"
+xdg-open https://www.youtube.com/playlist?list=PLhqk0hUdhXIwmWP227fBagxErhO86HkSH
+</button>
+
+And support Organizer or Morias Race here
+<button>
+"Link to Patreon."
+xdg-open https://www.patreon.com/blenderdumbass
+</button>
