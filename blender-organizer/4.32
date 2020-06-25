@@ -1,0 +1,35 @@
+Minor improvements.
+.
+1. In the analytics the By Deadline widget disappears
+if you go ahead of the schedule and it calculates more
+then 100% by deadline.
+.
+I did this because i found it quite discouraging to
+work if you are not in a hury. So yeah.
+.
+2. I fixed the highlight in the checklist when you
+click on it from the schedule. Now it shows in blue
+the exact task you are looking for.
+.
+If you missed the 4.30 update window. UPDATE NOW
+and go look at the blend files in the story editor.
+You will love it.
+.
+Those changes are a part of a larger project called. "Moria's Race"
+You can talk to me about changes or about the project in general here.
+<button>
+"Telegram Link"
+xdg-open https://t.me/moriasrace
+</button>
+
+Also If you want to see progress of the project it's here.
+<button>
+"This is a playlist"
+xdg-open https://www.youtube.com/playlist?list=PLhqk0hUdhXIwmWP227fBagxErhO86HkSH
+</button>
+
+And support Organizer or Morias Race here
+<button>
+"Link to Patreon."
+xdg-open https://www.patreon.com/blenderdumbass
+</button>
