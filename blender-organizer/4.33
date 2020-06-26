@@ -1,0 +1,40 @@
+Done work on the Checklists bringing them to the
+original vision.
+For those who remember the first ever organizer
+you could do only 1 level subtask in the Checklists
+but you could see on the top level ones the
+percentage of the whole subtask area.
+.
+So I did a lot of changes to the current checklist.
+<images>
+https://raw.githubusercontent.com/JYamihud/updates-manager/master/blender-organizer/img/Screenshot%20from%202020-06-26%2017-58-51.png
+</images>
+.
+Now reading how much is done and what's left
+to do is way easier.
+Tho it could be a little buggy. It's still
+slow because it calculates percentage for every
+line in the checklist and it's not giving me the
+same FPS as before. But still... It's way cooler.
+.
+If you want to contribute your own solution
+please read the checklist.py file in py_data/modules
+.
+Those changes are a part of a larger project called. "Moria's Race"
+You can talk to me about changes or about the project in general here.
+<button>
+"Telegram Link"
+xdg-open https://t.me/moriasrace
+</button>
+
+Also If you want to see progress of the project it's here.
+<button>
+"This is a playlist"
+xdg-open https://www.youtube.com/playlist?list=PLhqk0hUdhXIwmWP227fBagxErhO86HkSH
+</button>
+
+And support Organizer or Morias Race here
+<button>
+"Link to Patreon."
+xdg-open https://www.patreon.com/blenderdumbass
+</button>
