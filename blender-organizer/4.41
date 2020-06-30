@@ -1,0 +1,47 @@
+Few tweaks and nice changes here.
+.
+First of all the big graph now
+shows icons for activity you've
+node per day.
+.
+<images>
+https://raw.githubusercontent.com/JYamihud/updates-manager/master/blender-organizer/img/Screenshot%20from%202020-06-30%2016-54-32.png
+</images>
+.
+This is good if you want to have a
+clear view of what types of assets
+were developped raughly when.
+.
+Or when most of the scene work began.
+.
+For details you can always click on
+the day it self. And have a full history
+of that day spesented to you.
+.
+Also in story editor I fixed the annoying
+scene name creator. It was giving random
+characters to avoid creating scenes with 
+the names of the already created ones.
+.
+I changed it so a more simple number.
+Which is simpler to understand but
+ultimatly a little harder to code.
+.
+Those changes are a part of a larger project called. "Moria's Race"
+You can talk to me about changes or about the project in general here.
+<button>
+"Telegram Link"
+xdg-open https://t.me/moriasrace
+</button>
+
+Also If you want to see progress of the project it's here.
+<button>
+"This is a playlist"
+xdg-open https://www.youtube.com/playlist?list=PLhqk0hUdhXIwmWP227fBagxErhO86HkSH
+</button>
+
+And support Organizer or Morias Race here
+<button>
+"Link to Patreon."
+xdg-open https://www.patreon.com/blenderdumbass
+</button>
