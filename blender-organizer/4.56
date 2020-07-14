@@ -1,0 +1,34 @@
+Now no more scariness in Story Editor.
+It's now saves automatically as anything else.
+I mean you don't hit Ctrl-S in Checklists?
+.
+Why whould you do such a thing in Scenes?.
+Tho because Undo is not there yet. I made
+it so you could still kinda restore mistakes.
+.
+While typing you will not save automatically.
+So i renamed the buttons on the bottom to reflect
+the change.
+.
+<images>
+https://raw.githubusercontent.com/JYamihud/updates-manager/master/blender-organizer/img/Screenshot%20from%202020-07-14%2012-15-54.png
+</images>
+.
+Those changes are a part of a larger project called. "Moria's Race"
+You can talk to me about changes or about the project in general here.
+<button>
+"Telegram Link"
+xdg-open https://t.me/moriasrace
+</button>
+
+Also If you want to see progress of the project it's here.
+<button>
+"This is a playlist"
+xdg-open https://www.youtube.com/playlist?list=PLhqk0hUdhXIwmWP227fBagxErhO86HkSH
+</button>
+
+And support Organizer or Morias Race here
+<button>
+"Link to Patreon."
+xdg-open https://www.patreon.com/blenderdumbass
+</button>
