@@ -1,0 +1,20 @@
+Fixed the calculator of
+checklists. It was giving 100%
+way ahead of the time.
+.
+It's something to do with how
+float numbers are stored in memory
+I guess.
+.
+Previous solution was if number
+is larger then 0.98 then make it
+1.0.
+.
+After digging into it.
+I changed it to a more realistic
+0.9999 which makes the job done
+for the rounded to 1% widgets.
+.
+If not to do this some stuff rounding
+to 99% which is weird.
+Or maybe I'm doing something wrong.
