@@ -1,0 +1,56 @@
+This update is a little epic.
+But only just a little.
+.
+Fist now we have Comments in checklists.
+<images>
+https://raw.githubusercontent.com/JYamihud/updates-manager/master/blender-organizer/img/Screenshot%20from%202020-07-25%2010-10-52.png
+</images>
+.
+To make a comment you 
+just need to name the task with a
+# simbol in front. Like in python.
+.
+It's a good way to make. Little backstory
+to keep in mind. Or reasons for certain 
+tasks.
+For example.
+<images>
+https://raw.githubusercontent.com/JYamihud/updates-manager/master/blender-organizer/img/Screenshot%20from%202020-07-25%2010-36-34.png
+</images>
+.
+Those comments are not calculated so
+they do not effect the progress bars.
+All-tho there are still possible bugs
+that I will need to solve.
+.
+Like it will prevent you from checking in
+a task which has a commented subtask
+with an uncommneted subtask.
+.
+But those are minor issues.
+.
+In the story editor now you can preview
+the Dialogue marked frases.
+<images>
+https://raw.githubusercontent.com/JYamihud/updates-manager/master/blender-organizer/img/Screenshot%20from%202020-07-25%2010-36-53.png
+</images>
+.
+
+Those changes are a part of a larger project called. "Moria's Race"
+You can talk to me about changes or about the project in general here.
+<button>
+"Telegram Link"
+xdg-open https://t.me/moriasrace
+</button>
+
+Also If you want to see progress of the project it's here.
+<button>
+"This is a playlist"
+xdg-open https://www.youtube.com/playlist?list=PLhqk0hUdhXIwmWP227fBagxErhO86HkSH
+</button>
+
+And support Organizer or Morias Race here
+<button>
+"Link to Patreon."
+xdg-open https://www.patreon.com/blenderdumbass
+</button>
