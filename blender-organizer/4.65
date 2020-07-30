@@ -1,0 +1,45 @@
+A new cool thing with the story editor.
+Now it's easier then ever to put
+references and textures into item's
+libraries.
+.
+You just need to add an item.
+and drag and drop your image.
+.
+<images>
+https://raw.githubusercontent.com/JYamihud/updates-manager/master/blender-organizer/img/Screenshot%20from%202020-07-30%2003-08-00.png
+</images>
+Then using a normal connection.
+<images>
+https://raw.githubusercontent.com/JYamihud/updates-manager/master/blender-organizer/img/Screenshot%20from%202020-07-30%2003-08-05.png
+</images>
+You can simply connet the image
+with the folder you want it to
+go to.
+.
+And the organizer will copy it automatically.
+Making it within the project. Files.
+.
+<images>
+https://raw.githubusercontent.com/JYamihud/updates-manager/master/blender-organizer/img/Screenshot%20from%202020-07-30%2003-08-17.png
+https://raw.githubusercontent.com/JYamihud/updates-manager/master/blender-organizer/img/Screenshot%20from%202020-07-30%2003-08-32.png
+</images>
+.
+Those changes are a part of a larger project called. "Moria's Race"
+You can talk to me about changes or about the project in general here.
+<button>
+"Telegram Link"
+xdg-open https://t.me/moriasrace
+</button>
+
+Also If you want to see progress of the project it's here.
+<button>
+"This is a playlist"
+xdg-open https://www.youtube.com/playlist?list=PLhqk0hUdhXIwmWP227fBagxErhO86HkSH
+</button>
+
+And support Organizer or Morias Race here
+<button>
+"Link to Patreon."
+xdg-open https://www.patreon.com/blenderdumbass
+</button>
