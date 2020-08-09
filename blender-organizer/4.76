@@ -1,0 +1,15 @@
+HUGE CHANGE ( actually it was a simple but technical thing )
+Previously UTF-8 Characters were not properly supported in the
+story editor. Meaning that you cound't write your stories on
+many languages. 
+.
+It's not yet fully supported eather. But mostly it's a font
+and direction problem. ( In languages such as Hebrew ).
+.
+But if you are Russian or French be free to type in 
+what even language you want.
+<images>
+https://raw.githubusercontent.com/JYamihud/updates-manager/master/blender-organizer/img/Screenshot%20from%202020-08-09%2021-15-01.png
+https://raw.githubusercontent.com/JYamihud/updates-manager/master/blender-organizer/img/Screenshot%20from%202020-08-09%2021-15-08.png
+</images>
+From this update. Nothing gonna break.
