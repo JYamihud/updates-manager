@@ -1,0 +1,12 @@
+Made a few little tweaks.
+Somewhat fixed a bug of the checklists.
+There was an optimization problem.
+At the moment it's not really elegant.
+Please concider helping us here
+<button>
+"Blender-Organizer Telegram Chat"
+xdg-open https://t.me/blenderorganizer
+</button>
+.
+The file is...
+/py_data/modules/checklist.py
