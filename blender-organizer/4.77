@@ -1,0 +1,19 @@
+Small tweak. Now notifications of the
+Organizer will show the Icon of the
+organizer. 
+The icon can be customized at
+/py_data/icon.png
+.
+As you can see I've put the car from
+my project called Moria's Race.
+<images>
+https://raw.githubusercontent.com/JYamihud/updates-manager/master/blender-organizer/img/Screenshot%20from%202020-08-10%2016-48-23.png
+</images>
+.
+Also you can subscribe to the telegram
+group of the project. Where I do the 
+actuall project. Heavily using the organizer.
+<button>
+"Telegram Group"
+xdg-open https://t.me/moriasrace
+</button>
