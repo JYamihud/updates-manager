@@ -1,0 +1,6 @@
+Changes in this update:
+* Analytics now link directly to scene / shot. Not just opens the story editor.
+* There is a scene list in the Items.
+* Fixed buggy behaviour of the scene preview.
+* Press Num Pad . (del) to focus on an Event in story editor. (Like focus on object in Blender)
+* Few small fixes here and there.
