@@ -1,0 +1,21 @@
+Story-Editor polish.
+.
+I was outside the internet for 2 days.
+And took the time to make the workflow
+of the story-editor more polished.
+.
+* Go to next, previous scene using Left and Right arrow keys on the keyboard.
+* Scroll the scene content using the Up and Down arrow keys.
+* Home button gives you the first scene in the chain.
+* End button gives you the last.
+* Number pad . focuses on the scene in the story-editor space.
+    Together with Tab to enter editing. Very cool.
+* Editor is a bit bigger. Better readability with large about of items.
+* Fixed a lot of issues with item highlight in the scene text.
+* Added 5 frames animation when focusing on an item. ( so you wont be lost )
+* Quality of life improvements when selecting an item.
+* When adding item Object changed to Other.
+* Other minor tweaks here and there.
+.
+It's not the perfect story-editor. Perfection is impossible.
+But it's got a bit better.
