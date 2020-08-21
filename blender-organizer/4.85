@@ -1,0 +1,29 @@
+<images>
+https://raw.githubusercontent.com/JYamihud/updates-manager/master/blender-organizer/img/Screenshot%20from%202020-08-21%2014-59-35.png
+</images>
+ 
+New setting that let's you choose influence
+of specific categories on the over all project's percentage.
+ 
+For now it was treating Characters, Vehicles, Locations, Objects and Scenes
+equally. It's 5 things equally destebuting 100% of your percentage.
+100 / 5 is 20. So 20% was allocated to each of them.
+ 
+I'm talking ofcourse about the Assets and Scenes graph. 
+And not the over all percentage. Because there is also
+a checklist that influences of stuff depending on how
+you compose it. This is an art of it's own.
+ 
+But you can agree that most of the work is at the actuall
+animation for most project. There are exceptions and this
+is why I made the setting dynamic. But most of the time
+animation is not 20%. It's more like 50%. This is why for
+the new instalation you will have the setting you will see above.
+ 
+Tho on your particlar organizer due to not wanting to make you
+upset that something suddenly broke. You will have to play with
+the setting yourself. And see what it your optimal setting.
+ 
+To find this polygon of horror, go to Setting at the top, 
+right corner of the organizer.
+
