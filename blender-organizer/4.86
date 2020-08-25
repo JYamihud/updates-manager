@@ -1,0 +1,8 @@
+Few improvements in the Analytics
+* If you select Today. You will see all the task from before
+  if they are not yet finished. They will be in red.
+  And if all the task for today are finished, you will also
+  see in blue the task from later days.
+* The time passed string was changed to "days gone" and
+  "days left" for better way to calculate your ways through
+  the days. I will add more features to it in future.
