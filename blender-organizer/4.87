@@ -1,0 +1,18 @@
+ANALYTICS KEEPS BEING IMROVED.
+* Fixed arrows bug for small spaces.
+* Drag with the mouse on the progress bar to see, days
+  and percentage of the part.
+
+<images>
+https://raw.githubusercontent.com/JYamihud/updates-manager/master/blender-organizer/img/Screenshot%20from%202020-08-27%2015-47-42.png
+</images>
+
+* Drag with the mouse on the small graph to see similar
+  information about the selected part.
+
+<images>
+https://raw.githubusercontent.com/JYamihud/updates-manager/master/blender-organizer/img/Screenshot%20from%202020-08-27%2015-47-41.png
+</images>
+
+Also improved Trouble-Shooter, and new default banner.
+( the banner will not update )
