@@ -1,0 +1,11 @@
+IMPROVEMENTS IN STORY EDITOR
+ 
+*Fixed bug of broken image when adding items.
+*Fixed bug of not being able to delete without story.
+*Made images and items trully selectable
+*Made a shortened link dump for selected items in the
+ side panel.
+
+<images>
+https://raw.githubusercontent.com/JYamihud/updates-manager/master/blender-organizer/img/Screenshot%20from%202020-09-01%2018-26-37.png
+</images>
