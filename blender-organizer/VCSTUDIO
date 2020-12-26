@@ -1,0 +1,51 @@
+THIS IS NOT AN UPDATE FOR BLENDER-ORGANIZER
+I'M USING UPDATE SYSTEM TO TELL YOU ABOUT
+THE COMLITE RE-WRITE OF THE PROGRAM. VCSTUDIO.
+    
+For a very long time I was using Python 2 as the driving force
+to keep both Organizer 0.1 ( 2016 ) and this Blender-Organizer
+working. But this could no longer be done relibly because nobody
+supports Python 2 anymore. Everybody moved over to Python 3. 
+     
+On this note I had a lot of thinking to do. Do I attempt to
+refirbish the code of Blender-Organizer to simply work using
+Python 3. Or do I make an entirelly new Organizer designed to
+works with Python 3 to begin with. Using all the core principles
+from Blender-Organizer. 
+     
+I present to you VCStudio. The new Blender-Organizer.
+     
+It's a separate project this time. Because I changed a very big
+part of the design. The new program is a lot more dynamic. And
+a lot more interconnected. And I'm using some different file
+formats.
+     
+Don't be afraid because it comes with a project manager that
+will launch multiple projects you have. Including Blender_organizer
+projects. And can turn Blender_Organizer projects into VCStudio
+projects quite suprisingly seamlessly. 
+      
+<images>
+https://raw.githubusercontent.com/JYamihud/updates-manager/master/blender-organizer/img/progect_manager_preview_for_BO.png
+</images>
+    
+Now I'm going to leave you with the links and show you more
+of the new program. And you decide what you want to do.
+<button>
+"GIT Repository (NotABug, Not GitHub)"
+xdg-open https://notabug.org/jyamihud/VCStudio
+</button>
+
+<button>
+"Installation Tutorial"
+xdg-open https://notabug.org/jyamihud/VCStudio/wiki/Documenation+%7C+Installation+%7C+Version+20.128
+</button>
+
+And now more images. Just look at this beauty.
+
+<images>
+https://raw.githubusercontent.com/JYamihud/updates-manager/master/blender-organizer/img/story_editor_preview_for_BO.png
+https://raw.githubusercontent.com/JYamihud/updates-manager/master/blender-organizer/img/script_writer_preview_for_BO.png
+https://raw.githubusercontent.com/JYamihud/updates-manager/master/blender-organizer/img/assets_preview_for_BO.png
+https://raw.githubusercontent.com/JYamihud/updates-manager/master/blender-organizer/img/analytics_preview_for_BO.png
+</images>
